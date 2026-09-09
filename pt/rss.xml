@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BHThoughts</title>
+    <link>https://bhthoughts.github.io/pt/</link>
+    <description>Notas de um DBA Oracle sobre performance, backup e o que quebra as tres da manha.</description>
+    <language>pt-BR</language>
+    <atom:link href="https://bhthoughts.github.io/pt/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exemplo das extensoes</title>
+      <link>https://bhthoughts.github.io/pt/exemplo-das-extensoes/</link>
+      <guid isPermaLink="true">https://bhthoughts.github.io/pt/exemplo-das-extensoes/</guid>
+      <description>Artigo de verificacao das extensoes de callout e bloco de terminal.</description>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <dc:language>pt-BR</dc:language>
+    </item>
+  </channel>
+</rss>
